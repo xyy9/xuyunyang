@@ -9,10 +9,13 @@
       <p><b>现居：辽宁大连</b></p>
     </td>
     <td width="25%">
-      <img src="/photo.jpg" width="100%">      % 证件照
+      <img src="/photo.jpg" width="100%">
     </td>
   </tr>
 </table>
+
+##个人信息
+生日：1999年2月4日
 
 ###教育经历
 
