@@ -2,51 +2,107 @@
   <tr>
     <td width="75%">
       <h1>徐韵扬</h1>
-      <p><b>本科生</b></p>
-      <p><b>国立中央大学资讯工程学系</b></p>
-      <p><b>邮箱：973654984@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>学历：本科生</b></p>
+      <p><b>生日：1999年2月4日</b></p>
+      <p><b>电话：15140324469</b></p>
+      <p><b>邮箱：xyy973654984@gmail.com</b></p>
+      <p><b>现居：辽宁大连</b></p>
     </td>
     <td width="25%">
-      <img src="/證件照.jpg" width="100%">      % 插入证件照代码
+      <img src="/photo.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
 
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h3>教育经历</h3>
+      <p><b>学历：本科生</b></p>
+      <p><b>生日：1999年2月4日</b></p>
+      <p><b>电话：15140324469</b></p>
+      <p><b>邮箱：xyy973654984@gmail.com</b></p>
+      <p><b>现居：辽宁大连</b></p>
+    </td>
+    <td width="25%">
+      <img src="/photo.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/xyy9/xuyunyang.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*123*
 
-### Markdown
+_123_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**123**
 
-```markdown
-Syntax highlighted code block
+#123
 
-# Header 1
-## Header 2
-### Header 3
+##123
 
-- Bulleted
-- List
+###123
 
-1. Numbered
-2. List
+~~this~~
 
-**Bold** and _Italic_ and `Code` text
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
-[Link](url) and ![Image](src)
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+I think you should use an
+`<addr>` element here instead.
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+    
+    
+def foo():
+    if not bar:
+        return True
+        
+        
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xyy9/xuyunyang.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
