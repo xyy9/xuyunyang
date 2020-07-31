@@ -9,26 +9,15 @@
       <p><b>现居：辽宁大连</b></p>
     </td>
     <td width="25%">
-      <img src="/photo.jpg" width="100%">      % 插入证件照代码
+      <img src="/photo.jpg" width="100%">      % 证件照
     </td>
   </tr>
 </table>
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h3>教育经历</h3>
-      <p><b>学历：本科生</b></p>
-      <p><b>生日：1999年2月4日</b></p>
-      <p><b>电话：15140324469</b></p>
-      <p><b>邮箱：xyy973654984@gmail.com</b></p>
-      <p><b>现居：辽宁大连</b></p>
-    </td>
-    <td width="25%">
-      <img src="/photo.jpg" width="100%">      % 插入证件照代码
-    </td>
-  </tr>
-</table>
+###教育经历
+
+> **国立中央大学（台湾）**
+> ***2017 年9 月-至今（大四在读）***
 
 
 *123*
