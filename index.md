@@ -1,4 +1,4 @@
-<font color="#666666" size="6"><b>徐韵扬</b></font>
+[徐韵扬](https://github.com/xyy9)
 
 ---------------
 
@@ -32,7 +32,6 @@
 ```
 
 > **项目经历** 
-[my_github](https://github.com/xyy9)
 
 ```
 Java小游戏制作                                                                  【2018年4月-2018年6月】  
