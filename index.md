@@ -31,9 +31,8 @@
 
 ```
 
-> **项目经历**  
-
->> [my_github](https://github.com/xyy9)
+> **项目经历** 
+[my_github](https://github.com/xyy9)
 
 ```
 Java小游戏制作                                                                  【2018年4月-2018年6月】  
