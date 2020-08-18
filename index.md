@@ -13,7 +13,7 @@
 
 现居：辽宁大连  
 
-个人主页：https://github.com/xyy9
+github：https://github.com/xyy9
 ```
 
 > **教育经历**  
