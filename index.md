@@ -12,8 +12,6 @@
 邮箱：xyy973654984@gmail.com  
 
 现居：辽宁大连  
-
-github：https://github.com/xyy9
 ```
 
 > **教育经历**  
@@ -34,6 +32,8 @@ github：https://github.com/xyy9
 ```
 
 > **项目经历**  
+
+>> [my_github](https://github.com/xyy9)
 
 ```
 Java小游戏制作                                                                  【2018年4月-2018年6月】  
@@ -60,8 +60,8 @@ Android在线聊天软件                                                       
 > **相关技能**  
 
 ```
-技能：C++，C，C#，Java，Python，Matlab， MIPS指令（汇编），Linux操作指令，
-      VHDL，Linkit7697简单应用，STM32F767ZI简单应用  
+技能：C++，C，C#，Java，Python，Matlab， MIPS指令（汇编），Linux系统使用，
+      lex&yacc, VHDL，Linkit7697简单应用，STM32F767ZI简单应用  
 常用的工具：Microsoft Office，Visual Studio，Unity，Android Studio，VMware，Arduino，Keil μVision5  
 语言：英语（熟练专业词汇，日常对话无碍）  
 ```
