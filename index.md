@@ -12,7 +12,6 @@
 邮箱：xyy973654984@gmail.com  
 
 现居：辽宁大连  
-[菜鸟教程](https://github.com/xyy9)
 ```
 
 > **教育经历**  
